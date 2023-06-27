@@ -1,0 +1,26 @@
+.seat-selector {
+    flex-grow: 1;
+    flex-shrink: 1;
+    min-width: 400px;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.seat-selector-table,
+.seat-selector-table tr,
+.seat-selector-table td {
+    border-collapse: collapse;
+}
+
+.seat-selector-screen-cell {
+    border: 1px solid;
+}
+
+.seat-selector-table-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+}

@@ -1,0 +1,30 @@
+.MovieTimeSelectView{
+    padding: 2.5% 7.5% 0%;
+}
+
+.middle-body{
+    background-color: white;
+    padding: 0 16px;
+}
+
+.movie-card{
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.cinema-img{
+    width: 70%;
+    border-radius: 10px;
+    margin-left: 10%;
+}
+
+.cinema-info{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.cinema-movie-list{
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
